@@ -28,11 +28,11 @@
 
 ![SCANNER_PAGE](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/312f05b5-9b61-4a86-bb82-d76801a5d7f3)
 
-![ADD_TO_CARD](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/4a8f3684-9ee9-4883-9208-3bbc2223d4de)
+![ADD_TO_CARD](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/80203e52-0e99-4c4c-bb87-06766546cc2e)
 
-![SUCCESS](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/0260781f-da52-4f25-a146-972fda7e28ea)
+![SUCCESS_PAGE](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/5471276c-6ac8-4171-95a6-35820dbb034c)
 
-![THANKS_YOU](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/2d9f2625-88f2-41d6-9441-5a1f8fa83a27)
+![THANK_YOU](https://github.com/dkavathiya0811/WEDDING_IOS_APP/assets/164452979/ce920654-7b88-404c-b733-abc47c8ee901)
 
 
 
